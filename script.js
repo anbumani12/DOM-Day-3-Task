@@ -29,9 +29,7 @@ function clearDisplay() {
 document.addEventListener('keydown', function (event) {
     if (!isNaN(event.key)) {
         appendNumber(event.key);
-    } else {
+    } else {   
         alert('Only numbers are allowed');
     }
-    
 });
-
