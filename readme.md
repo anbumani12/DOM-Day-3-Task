@@ -1,1 +1,1 @@
-I have completed the DOM DAY 3 TASK.
+I have completed the DOM DAY 3 TASK
