@@ -32,5 +32,6 @@ document.addEventListener('keydown', function (event) {
     } else {
         alert('Only numbers are allowed');
     }
+    
 });
 
